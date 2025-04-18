@@ -1,0 +1,8 @@
+src/app/classes/*
+src/app/constants/*
+src/app/enums/*
+src/app/models/*
+src/styles/*
+src/assets/*
+src/environments/*
+packagelock.json
