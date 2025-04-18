@@ -5,4 +5,4 @@ src/app/models/*
 src/styles/*
 src/assets/*
 src/environments/*
-packagelock.json
+package-lock.json
